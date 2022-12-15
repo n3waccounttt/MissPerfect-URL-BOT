@@ -50,7 +50,7 @@ async def start(bot, update):
                     ),
                     InlineKeyboardButton("4k Movies & Tv Series ⚡", url="https://t.me/+Rcbt-w1pNXQEcr-P"),
                 ],
-                [InlineKeyboardButton("LazyDeveloper", url="https://t.me/mRiderDM")],
+                [InlineKeyboardButton("Request Group", url="https://t.me/Movie_series_requestt")],
             ]
         ),
         reply_to_message_id=update.message_id
